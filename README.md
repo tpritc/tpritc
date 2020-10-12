@@ -1,4 +1,4 @@
-**Hey, I'm Tom**. Nice to meet you! ✨ I'm a software engineering consultant, focusing on large, enterprise Ruby on Rails codebases. Do you have an interesting problem on your mind? [Let me know!](mailto:hi@tpritc.com).
+**Hey, I'm Tom**. Nice to meet you! ✨ I'm a software engineering consultant, focusing on large, enterprise Ruby on Rails codebases. Do you have an interesting problem on your mind? [Let me know!](mailto:hi@tpritc.com)
 
 Here are some of the projects I've worked on recently:
 - 👩‍🎓 I co-founded Tandem Labs in May 2017, and built [University Assistant](https://asktandem.com), a tool for universities to reach out and meet their students where they are. We sold Tandem Labs and University Assistant in March 2020.
