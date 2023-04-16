@@ -11,4 +11,4 @@ Here are some of the cool projects I've worked on over the last few years:
 
 You can find me on Twitter as [@tpritc](https://twitter.com/tpritc) and on Mastodon at [@tpritc@mastodon.social](https://mastodon.social/@tpritc)! Say hi!
 
-I use [he/him pronouns](https://pronoun.is/he).
+I use he/him pronouns.
